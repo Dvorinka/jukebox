@@ -22,7 +22,6 @@ spicetify backup (apply) //restores backup
 ## Eternal Jukebox
 ![image](https://github.com/Dvorinka/jukebox/assets/150935816/6d79cccc-a556-48c8-84ac-d3a6c30ade6a)
 
-
 1. Run `spicetify config-dir` to open the spicetify folder.
 2. Go to the `CustomApps` folder.
 3. Create a `eternal-jukebox` folder.
@@ -35,6 +34,13 @@ Then, run the following commands:
 spicetify config custom_apps eternal-jukebox
 spicetify apply
 ```
+
+6. Open Spotify and go to the section (on the left side bar) called Eternal Jukebox. - open it
+![image](https://github.com/Dvorinka/jukebox/assets/150935816/2e986718-d29f-43b6-8b03-6f20729d20ca)
+7. Enable the Jukebox by pressing these two buttons once.
+![image](https://github.com/Dvorinka/jukebox/assets/150935816/fc6f195e-6ae5-48ca-b289-9d46887dfc43)
+8. Enjoy!
+
 
 # How to uninstall the custom apps
 

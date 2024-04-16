@@ -20,6 +20,8 @@ spicetify backup (apply) //restores backup
 
 # How to install the custom apps
 ## Eternal Jukebox
+![image](https://github.com/Dvorinka/jukebox/assets/150935816/6d79cccc-a556-48c8-84ac-d3a6c30ade6a)
+
 
 1. Run `spicetify config-dir` to open the spicetify folder.
 2. Go to the `CustomApps` folder.

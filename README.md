@@ -35,11 +35,15 @@ spicetify config custom_apps eternal-jukebox
 spicetify apply
 ```
 
-6. Open Spotify and go to the section (on the left side bar) called Eternal Jukebox. - open it<br>
+6. Open Spotify and go to the section (on the left side bar) called Eternal Jukebox - open it.
+‎ 
 ![image](https://github.com/Dvorinka/jukebox/assets/150935816/2e986718-d29f-43b6-8b03-6f20729d20ca)
-7. Enable the Jukebox by pressing these two buttons once.<br>
-![image](https://github.com/Dvorinka/jukebox/assets/150935816/fc6f195e-6ae5-48ca-b289-9d46887dfc43)<br>
-8. Enjoy!
+‎ 
+8. Enable the Jukebox by pressing these two buttons once.
+‎ 
+![image](https://github.com/Dvorinka/jukebox/assets/150935816/fc6f195e-6ae5-48ca-b289-9d46887dfc43)
+‎ 
+10. Enjoy!
 
 
 # How to uninstall the custom apps

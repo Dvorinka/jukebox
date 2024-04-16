@@ -25,7 +25,7 @@ spicetify backup (apply) //restores backup
 2. Go to the `CustomApps` folder.
 3. Create a `eternal-jukebox` folder.
 4. Download the custom app files as a zip from [here](https://github.com/Pithaya/spicetify-apps-dist/archive/refs/heads/dist/eternal-jukebox.zip).
-5. Extract the zip and put the files inside the folder you created in step 3.
+5. Extract the zip and put the files inside the folder you created in step 3 (or rename the extracted folder to `eternal-jukebox`).
 
 Then, run the following commands:
 

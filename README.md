@@ -35,7 +35,8 @@ spicetify config custom_apps eternal-jukebox
 spicetify apply
 ```
 
-6. Open Spotify and go to the section (on the left side bar) called Eternal Jukebox - open it.<br>‎ 
+6. Open Spotify and go to the section (on the left side bar) called Eternal Jukebox - open it.<br>‎‎
+ <br>
 ![image](https://github.com/Dvorinka/jukebox/assets/150935816/2e986718-d29f-43b6-8b03-6f20729d20ca)<br>
 ‎ 
 8. Enable the Jukebox by pressing these two buttons once.<br>
